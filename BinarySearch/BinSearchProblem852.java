@@ -1,4 +1,7 @@
-package Searching.BinarySearch;
+// Que : Find the Peak index in Mountain array [0,1,2,3,4,3,2,1]  4 is peak element
+// We use binary searach 
+// array is sorted into two part 1 assending sorted order left side , 2 dessending sorted order in right side
+
 
 public class BinSearchProblem852 {
 
