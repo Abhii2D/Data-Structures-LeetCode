@@ -1,4 +1,4 @@
-package Searching.dsa5String;
+package Searching.dsa6String;
 
 public class Merge2String {
 }
