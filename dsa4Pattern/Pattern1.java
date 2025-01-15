@@ -1,4 +1,4 @@
-package Searching.Pattern;
+package Searching.dsa4Pattern;
 
 public class Pattern1 {
     public static void main(String[] args) {
