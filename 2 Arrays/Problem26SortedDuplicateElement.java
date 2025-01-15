@@ -14,7 +14,7 @@
 // 4. The first j elements of the array now contain all unique values.
 
 
-public class Problem26 {
+class Problem26 {
     public static void main(String[] args) {
        int [] arr = {0,0,1,2,2,2,3,4,5,5};
        int j = 1;
